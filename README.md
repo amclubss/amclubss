@@ -5,9 +5,7 @@
   </a>
 </h1>
 
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></div>
-<br>
+
 
 <!-- 个人资料徽标 -->
 <div align="center">
@@ -17,7 +15,7 @@
   <a href="https://github.com/ansoncloud8"><img src="https://npm.elemecdn.com/anzhiyu-blog@2.1.5/img/badge/Source-Github.svg"></a>&emsp;
  </div> 
 
-# 🙋 Hi, I’m AM科技
+<!-- # 🙋 Hi, I’m AM科技  -->
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />欢迎来到我的GitHub仓库！技术分享-满满干货，从0到1实现，从技术分享到落地应用，希望你在这里能找到你需要的东西！
 
 ▶️ **新人[YouTube](https://youtube.com/@AM_CLUB)** 需要您的支持，请务必帮我**点赞**、**关注**、**打开小铃铛**，***十分感谢！！！*** ✅
@@ -34,25 +32,30 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">**[频道分享](https://youtube.com/@AM_CLUB)**
   
-[免费CF节点](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9CF%E8%8A%82%E7%82%B9/) | [免费服务器](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8/) | [免费域名](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/) | [免费VPN](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9VPN/) | [免费IPTV](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/)
+[免费CF节点](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9CF%E8%8A%82%E7%82%B9/) | [免费服务器](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8/) | [免费域名](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/) | [免费VPN](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9VPN/) | [免费IPTV](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/) | [Mac工具分享](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/)
 </div> 
 
 <!-- 线 -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
  
+✈️ **机场推荐** 🛩️
+
+【5折优惠码：**AM科技**】[*[红杏加速器]**最低5元222G,高速iepl专线机场,定制极速专线，先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
+
+[*【69云机场】**中转高速机场！全流媒体解锁，最低9.9元400G** ](https://am.69yun69.com)
+
+[*【云狐VPN】**动态流媒体解锁，可配置中转静态住宅IP，还有ChatGPT专线** ](https://yunfox.cc/?code=KPO6IFwh)
+
 <div align="center">
 ✈️ **免费节点获取** 🛩️
   
 [*进入群发送关键字 订阅 获取*](https://t.me/AM_CLUBS)
  </div> 
  
-✈️ **机场推荐** 🛩️
-
-[*红杏加速器：**高速iepl专线机场,定制极速专线,最低8元222G,优惠码：hxvip88,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
-
-[*69云机场：**中转高速机场！全流媒体解锁,最低9.9元400G** ](https://am.69yun69.com)
-
-[*云狐VPN：**动态流媒体解锁,可配置中转静态住宅IP，还有ChatGPT专线** ](https://yunfox.cc/?code=KPO6IFwh)
+<br>
+<!-- 敲代码的图片 -->
+<div align="center" ><img order-radius="100px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></div>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ansoncloud8&show_icons=false&theme=Default" alt="logo" align="right" width="100%" />
 
