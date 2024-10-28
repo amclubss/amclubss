@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://am.809098.xyz">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AM科技-技术分享满满干货;console.log(%22AM科技%EF%BC%8C技术分享满满干货%22)">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=AM动漫-技术分享满满干货;console.log(%22AM动漫%EF%BC%8C技术分享满满干货%22)">
   </a>
 </h1>
 
@@ -34,7 +34,7 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">**[频道分享](https://youtube.com/@AM_CLUB)**
   
-[免费CF节点](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9CF%E8%8A%82%E7%82%B9/) | [免费服务器](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E6%9C%8D%E5%8A%A1%E5%99%A8/) | [免费域名](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/) | [免费VPN](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9VPN/) | [免费IPTV](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/) | [Mac工具分享](https://am.809098.xyz/categories/%E5%85%8D%E8%B4%B9IPTV/)
+[免费节点](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbrY0Pk8gm3T7m8MZ-InquF) | [免费服务器](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaVlrHP9Du61CaEThYCQaiY) | [免费域名](https://www.youtube.com/playlist?list=PLGVQi7TjHKXZGODTvB8DEervrmHANQ1AR) | [免费VPN](https://www.youtube.com/playlist?list=PLGVQi7TjHKXY7V2JF-ShRSVwGANlZULdk) | [免费IPTV](https://www.youtube.com/playlist?list=PLGVQi7TjHKXbkozDYVsDRJhbnNaEOC76w) | [Mac和Win工具](https://www.youtube.com/playlist?list=PLGVQi7TjHKXYBWu65yP8E08HxAu9LbCWm) | [AI人工智能](https://www.youtube.com/playlist?list=PLGVQi7TjHKXaodkM-mS-2Nwggwc5wRjqY)
 </div> 
 
 <!-- 线 -->
@@ -45,10 +45,6 @@
 【5折优惠码：**AM科技**】[*[红杏加速器]**最低5元222G,高速iepl专线机场,定制极速专线，直接点击注册,先到先得！！！** ](https://hongxingdl.com/web/#/login?code=mn5Tuipf)
 
 [*【69云机场】**中转高速机场！全流媒体解锁，最低9.9元400G，直接点击注册** ](https://am.69yun69.com)
-
-[*【最强机场】**高性价比,最低套餐只要1.99元,解锁流媒体、GPT,畅享晚高封,全线路高加密,保护隐私安全，直接点击注册** ](https://zqjc.org/#/register?code=mm8JbfEu)
-
-[*【云狐VPN】**动态流媒体解锁，可配置中转静态住宅IP，还有ChatGPT专线，直接点击注册** ](https://yunfox.cc/?code=KPO6IFwh)
 
 <div align="center">
 ✈️ **免费节点获取** 🛩️
